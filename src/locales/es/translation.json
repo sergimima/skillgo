@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "benefits": "Beneficios",
+    "comparison": "Comparativa",
+    "contact": "Contacto",
+    "requestDemo": "Solicitar demo"
+  },
+  "hero": {
+    "title": "El Duolingo para",
+    "titleHighlight": "vendedores",
+    "subtitle": "Convierte a tus vendedores en líderes leales y exitosos con formación gamificada que realmente funciona.",
+    "requestDemoBtn": "Solicitar demo gratuita",
+    "discoverBtn": "Descubre cómo funciona",
+    "stats": {
+      "sellers": "+10K",
+      "sellersLabel": "Vendedores formados",
+      "engagement": "95%",
+      "engagementLabel": "Tasa de engagement",
+      "improvement": "3x",
+      "improvementLabel": "Mejora en resultados"
+    }
+  },
+  "howItWorks": {
+    "title": "¿Cómo funciona",
+    "titleHighlight": "Skill & Go",
+    "subtitle": "Una plataforma diseñada para hacer que la formación de ventas sea efectiva, medible y divertida.",
+    "steps": {
+      "motivation": {
+        "title": "Motivación",
+        "description": "Gamificación que engancha desde el primer día. Convierte el aprendizaje en un reto divertido."
+      },
+      "learning": {
+        "title": "Aprendizaje",
+        "description": "Lecciones cortas y efectivas. Aprenden técnicas de venta mientras avanzan de nivel."
+      },
+      "rewards": {
+        "title": "Recompensas",
+        "description": "Premios reales por alcanzar objetivos. Badges, puntos y reconocimiento que impulsan la acción."
+      },
+      "growth": {
+        "title": "Crecimiento",
+        "description": "Seguimiento en tiempo real. Datos que muestran el progreso individual y del equipo."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Beneficios para",
+    "titleHighlight": "todos",
+    "subtitle": "Una solución que beneficia tanto a los vendedores como a las empresas.",
+    "forSellers": "Para vendedores",
+    "forCompanies": "Para empresas",
+    "sellers": {
+      "funLearning": {
+        "title": "Aprendizaje divertido",
+        "description": "Formación que no aburre. Como jugar, pero aprendiendo a vender mejor cada día."
+      },
+      "visibleProgress": {
+        "title": "Progreso visible",
+        "description": "Ve tu evolución en tiempo real. Cada misión completada te acerca a tus objetivos."
+      },
+      "realRewards": {
+        "title": "Premios reales",
+        "description": "Gana recompensas tangibles por tu esfuerzo. Badges, bonos y reconocimiento."
+      }
+    },
+    "companies": {
+      "customTraining": {
+        "title": "Formación personalizada",
+        "description": "Adapta el contenido a tu industria y objetivos. Tu estrategia, nuestra plataforma."
+      },
+      "realTimeData": {
+        "title": "Datos en tiempo real",
+        "description": "Dashboard completo con métricas de progreso, engagement y resultados del equipo."
+      },
+      "moreLoyalty": {
+        "title": "Mayor fidelidad",
+        "description": "Reduce la rotación invirtiendo en el crecimiento de tu equipo de ventas."
+      }
+    }
+  },
+  "comparison": {
+    "title": "¿Por qué",
+    "titleHighlight": "Skill & Go",
+    "subtitle": "Compara las diferentes opciones de formación de ventas y descubre la diferencia.",
+    "table": {
+      "feature": "Característica",
+      "inPerson": "Presencial",
+      "onlineTraditional": "Online tradicional",
+      "skillgo": "Skill & Go",
+      "levels": {
+        "high": "Alto",
+        "medium": "Medio",
+        "low": "Bajo"
+      },
+      "features": {
+        "implementation": "Facilidad de implementación",
+        "engagement": "Nivel de engagement",
+        "cost": "Costo por empleado",
+        "tracking": "Seguimiento de progreso",
+        "flexibility": "Flexibilidad horaria",
+        "motivation": "Motivación del equipo"
+      }
+    }
+  },
+  "problems": {
+    "title": "Problemas que",
+    "titleHighlight": "resolvemos",
+    "subtitle": "Las empresas pierden millones por no invertir correctamente en su equipo de ventas.",
+    "list": {
+      "turnover": {
+        "title": "Alta rotación",
+        "description": "Los vendedores abandonan por falta de desarrollo profesional y motivación."
+      },
+      "demotivation": {
+        "title": "Desmotivación constante",
+        "description": "Formaciones aburridas que no generan engagement ni resultados reales."
+      },
+      "unevenTraining": {
+        "title": "Formación desigual",
+        "description": "Equipos con niveles muy diferentes de conocimiento y habilidades."
+      },
+      "lackOfData": {
+        "title": "Falta de datos",
+        "description": "No sabes qué funciona ni cómo está evolucionando tu equipo de ventas."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para transformar tu equipo de ventas?",
+      "subtitle": "Únete a las empresas que ya están viendo resultados con Skill & Go"
+    }
+  },
+  "contact": {
+    "title": "Solicita tu",
+    "titleHighlight": "demo gratuita",
+    "subtitle": "Descubre cómo Skill & Go puede transformar tu equipo de ventas en solo 30 minutos.",
+    "form": {
+      "name": "Nombre completo",
+      "namePlaceholder": "Tu nombre",
+      "company": "Empresa",
+      "companyPlaceholder": "Nombre de tu empresa",
+      "email": "Email corporativo",
+      "emailPlaceholder": "tu@empresa.com",
+      "message": "Cuéntanos sobre tu equipo (opcional)",
+      "messagePlaceholder": "¿Cuántos vendedores tienes? ¿Qué desafíos enfrentan?",
+      "submitBtn": "Solicitar demo gratuita",
+      "submitting": "Enviando...",
+      "disclaimer": "Al enviar este formulario, aceptas que nos pongamos en contacto contigo sobre Skill & Go."
+    },
+    "toast": {
+      "success": {
+        "title": "¡Solicitud enviada!",
+        "description": "Nos pondremos en contacto contigo pronto para agendar tu demo gratuita."
+      },
+      "error": {
+        "title": "Error al enviar",
+        "description": "Hubo un problema al enviar tu solicitud. Por favor, intenta nuevamente o contáctanos directamente.",
+        "configError": "EmailJS no está configurado. Por favor, configura las variables de entorno."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "La plataforma gamificada que transforma vendedores en líderes exitosos.",
+    "product": {
+      "title": "Producto",
+      "howItWorks": "Cómo funciona",
+      "benefits": "Beneficios",
+      "comparison": "Comparativa",
+      "requestDemo": "Solicitar demo"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre nosotros",
+      "blog": "Blog",
+      "successStories": "Casos de éxito",
+      "careers": "Carreras"
+    },
+    "contact": {
+      "title": "Contacto",
+      "email": "hola@skill-go.com"
+    },
+    "legal": {
+      "copyright": "Skill & Go. Todos los derechos reservados.",
+      "privacy": "Política de privacidad",
+      "terms": "Términos de servicio",
+      "legalNotice": "Aviso legal"
+    }
+  }
+}

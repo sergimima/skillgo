@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "benefits": "Benefits",
+    "comparison": "Comparison",
+    "contact": "Contact",
+    "requestDemo": "Request demo"
+  },
+  "hero": {
+    "title": "The Duolingo for",
+    "titleHighlight": "salespeople",
+    "subtitle": "Turn your salespeople into loyal and successful leaders with gamified training that really works.",
+    "requestDemoBtn": "Request free demo",
+    "discoverBtn": "Discover how it works",
+    "stats": {
+      "sellers": "+10K",
+      "sellersLabel": "Trained salespeople",
+      "engagement": "95%",
+      "engagementLabel": "Engagement rate",
+      "improvement": "3x",
+      "improvementLabel": "Results improvement"
+    }
+  },
+  "howItWorks": {
+    "title": "How does",
+    "titleHighlight": "Skill & Go",
+    "subtitle": "A platform designed to make sales training effective, measurable and fun.",
+    "steps": {
+      "motivation": {
+        "title": "Motivation",
+        "description": "Gamification that hooks from day one. Turn learning into a fun challenge."
+      },
+      "learning": {
+        "title": "Learning",
+        "description": "Short and effective lessons. Learn sales techniques while leveling up."
+      },
+      "rewards": {
+        "title": "Rewards",
+        "description": "Real prizes for achieving goals. Badges, points and recognition that drive action."
+      },
+      "growth": {
+        "title": "Growth",
+        "description": "Real-time tracking. Data showing individual and team progress."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Benefits for",
+    "titleHighlight": "everyone",
+    "subtitle": "A solution that benefits both salespeople and companies.",
+    "forSellers": "For salespeople",
+    "forCompanies": "For companies",
+    "sellers": {
+      "funLearning": {
+        "title": "Fun learning",
+        "description": "Training that doesn't bore. Like playing, but learning to sell better every day."
+      },
+      "visibleProgress": {
+        "title": "Visible progress",
+        "description": "See your evolution in real time. Every completed mission brings you closer to your goals."
+      },
+      "realRewards": {
+        "title": "Real rewards",
+        "description": "Earn tangible rewards for your effort. Badges, bonuses and recognition."
+      }
+    },
+    "companies": {
+      "customTraining": {
+        "title": "Custom training",
+        "description": "Adapt content to your industry and goals. Your strategy, our platform."
+      },
+      "realTimeData": {
+        "title": "Real-time data",
+        "description": "Complete dashboard with progress, engagement and team results metrics."
+      },
+      "moreLoyalty": {
+        "title": "Greater loyalty",
+        "description": "Reduce turnover by investing in your sales team's growth."
+      }
+    }
+  },
+  "comparison": {
+    "title": "Why",
+    "titleHighlight": "Skill & Go",
+    "subtitle": "Compare different sales training options and discover the difference.",
+    "table": {
+      "feature": "Feature",
+      "inPerson": "In-person",
+      "onlineTraditional": "Traditional online",
+      "skillgo": "Skill & Go",
+      "levels": {
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low"
+      },
+      "features": {
+        "implementation": "Ease of implementation",
+        "engagement": "Engagement level",
+        "cost": "Cost per employee",
+        "tracking": "Progress tracking",
+        "flexibility": "Time flexibility",
+        "motivation": "Team motivation"
+      }
+    }
+  },
+  "problems": {
+    "title": "Problems we",
+    "titleHighlight": "solve",
+    "subtitle": "Companies lose millions by not investing correctly in their sales team.",
+    "list": {
+      "turnover": {
+        "title": "High turnover",
+        "description": "Salespeople leave due to lack of professional development and motivation."
+      },
+      "demotivation": {
+        "title": "Constant demotivation",
+        "description": "Boring training that doesn't generate engagement or real results."
+      },
+      "unevenTraining": {
+        "title": "Uneven training",
+        "description": "Teams with very different levels of knowledge and skills."
+      },
+      "lackOfData": {
+        "title": "Lack of data",
+        "description": "You don't know what works or how your sales team is evolving."
+      }
+    },
+    "cta": {
+      "title": "Ready to transform your sales team?",
+      "subtitle": "Join the companies already seeing results with Skill & Go"
+    }
+  },
+  "contact": {
+    "title": "Request your",
+    "titleHighlight": "free demo",
+    "subtitle": "Discover how Skill & Go can transform your sales team in just 30 minutes.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "company": "Company",
+      "companyPlaceholder": "Your company name",
+      "email": "Corporate email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Tell us about your team (optional)",
+      "messagePlaceholder": "How many salespeople do you have? What challenges do they face?",
+      "submitBtn": "Request free demo",
+      "submitting": "Sending...",
+      "disclaimer": "By submitting this form, you agree that we may contact you about Skill & Go."
+    },
+    "toast": {
+      "success": {
+        "title": "Request sent!",
+        "description": "We'll contact you soon to schedule your free demo."
+      },
+      "error": {
+        "title": "Error sending",
+        "description": "There was a problem sending your request. Please try again or contact us directly.",
+        "configError": "EmailJS is not configured. Please set up environment variables."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "The gamified platform that transforms salespeople into successful leaders.",
+    "product": {
+      "title": "Product",
+      "howItWorks": "How it works",
+      "benefits": "Benefits",
+      "comparison": "Comparison",
+      "requestDemo": "Request demo"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About us",
+      "blog": "Blog",
+      "successStories": "Success stories",
+      "careers": "Careers"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "hello@skill-go.com"
+    },
+    "legal": {
+      "copyright": "Skill & Go. All rights reserved.",
+      "privacy": "Privacy policy",
+      "terms": "Terms of service",
+      "legalNotice": "Legal notice"
+    }
+  }
+}

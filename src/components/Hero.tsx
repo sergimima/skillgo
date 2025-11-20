@@ -2,7 +2,6 @@
 import { useTranslation } from "react-i18next";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import heroIllustration from "@/assets/hero-illustration.png";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -69,7 +68,7 @@ const Hero = () => {
           <div className="relative animate-scale-in">
             <div className="absolute inset-0 bg-gradient-primary opacity-20 blur-3xl rounded-full"></div>
             <img
-              src={heroIllustration}
+              src="/images/Team-of-Smiling-and-looking-at-middle-team-members-phone.jpg"
               alt="Skill & Go Gamified Learning Platform"
               className="relative w-full h-auto"
             />
